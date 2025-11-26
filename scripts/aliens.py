@@ -2,6 +2,6 @@ import python
 
 def generate():
   theories = [
-    "Aliens control Wi-Fi signals!"
+    "Ronah should be an alien!"
   ]
   return random.choice(theories)
