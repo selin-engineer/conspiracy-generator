@@ -2,6 +2,6 @@ import python
 
 def generate():
   theories = [
-    "Aliens live under the ocean!"
+    "Alıens can swım"
   ]
   return random.choice(theories)
